@@ -14,6 +14,7 @@ Berikut ini adalah koleksi yang dimiliki:
  7. [Di Mana Gogo](ebook/Di Mana Gogo.pdf) - Mala Kumar (2024)
  8. [Apa Isi Panci Itu](ebook/Apa Isi Panci Itu.pdf) - Crystal Warren (2016)
  9. [Kumpulan Cerita Dongeng Anak](ebook/Kumpulan Cerita Dongeng Anak.pdf) - Gendhotwukir (2004)
+ 10. [Dongeng Binatang Anak](ebook/Dongeng Binatang Anak.pdf) - Anita Bahar (2023)
 
 ---
 
