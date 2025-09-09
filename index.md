@@ -12,6 +12,7 @@ Berikut ini adalah koleksi yang dimiliki:
  5. [Aum Aum Dinosaurus!](ebook/Aum Aum Dinosaurus!.pdf) - Lavanya Naidu (2024)
  6. [Nyanyian Hujan](ebook/Nyanyian Hujan.pdf) - Mala Kumar (2015)
  7. [Di Mana Gogo](ebook/Di Mana Gogo.pdf) - Mala Kumar (2024)
+ 8. [Apa Isi Panci Itu](ebook/Apa Isi Panci Itu.pdf) - Crystal Warren (2016)
 
 ---
 
