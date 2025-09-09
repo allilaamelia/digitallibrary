@@ -11,6 +11,7 @@ Berikut ini adalah koleksi yang dimiliki:
  4. [Ensiklopedia Hewan Laut](ebook/Ensiklopedia Hewan Laut.pdf) - Aisyah Wahyu W (2021)
  5. [Aum Aum Dinosaurus!](ebook/Aum Aum Dinosaurus!.pdf) - Lavanya Naidu (2024)
  6. [Nyanyian Hujan](ebook/Nyanyian Hujan.pdf) - Mala Kumar (2015)
+ 7. [Di Mana Gogo](ebook/Di Mana Gogo.pdf) - Mala Kumar (2024)
 
 ---
 
