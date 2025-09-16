@@ -2,27 +2,33 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Halaman 6</title>
   <style>
-    .nav {
-      text-align: left; 
-      font-size: 14px;
-      margin-bottom: 10px;
+  
+    nav {
+      position: fixed;
+      top: 10px;
+      left: 10px;
     }
-    .nav a {
-      text-decoration: none;
-      color: black;
-      margin: 0 4px;
-    }
-    .nav a:hover {
-      color: blue;
+
+
+    .chatbox {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 300px;
+      height: 400px;
+      border: 1px solid #000;
+      padding: 10px;
+      background: #fff;
     }
   </style>
 </head>
 <body>
- <div class="nav">
-    <hr>
+
+  <nav>
+    <a href="index.html">Index</a> |
     <a href="halaman1.html">Halaman 1</a> |
     <a href="halaman2.html">Halaman 2</a> |
     <a href="halaman3.html">Halaman 3</a> |
@@ -30,8 +36,7 @@
     <a href="halaman5.html">Halaman 5</a> |
     <a href="halaman6.html">Halaman 6</a> |
     <a href="halaman7.html">Halaman 7</a>
-    <hr>
-  </div>
+  </nav>
 
     <title>Kalkulator Sederhana</title>
     <style>
