@@ -17,8 +17,8 @@ Berikut ini adalah koleksi yang dimiliki:
  10. [Dongeng Binatang Anak](ebook/Dongeng Binatang Anak.pdf) - Anita Bahar (2023)
  11. [Ringkasan Materi Kuliah Tamu Virtual Reality](ebook/Ringkasan Materi Kuliah Tamu Virtual Reality.pdf) - Allila A (13040123140110)
 
----
 [halaman1.html](webti/halaman1,html)
+---
 
 
 *Powered by Github Pages*
